@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Twilight-Dream-Of-Magic
 
-I'm a college freshman in 2023, passionate about open-source projects and learning new technologies.
+I'm a college freshman in 2022, passionate about open-source projects and learning new technologies.
 
 ![Twilight-Dream-Of-Magic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twilight-Dream-Of-Magic&show_icons=true&theme=radical)
 
