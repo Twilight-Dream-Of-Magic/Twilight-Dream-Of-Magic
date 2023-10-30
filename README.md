@@ -24,7 +24,7 @@ A code base of utilities that use multiple algorithms to encrypt or decrypt data
 A C++-based research library for symmetric encryption and decryption, containing my OaldresPuzzleCryptic and Little OaldresPuzzleCryptic algorithms (although these two algorithms are placed in the `OOP/BlockCipher` folder and the `OOP/StreamCipher` folder, they are actually mathematically different implementations. they actually use different mathematical implementations. 
 I call them both by this name because these algorithms are actually very difficult to crack, and both algorithms can be a good defense against the future growth of quantum computing with respect to quantum bits, and I propose a good defense against shortening the speed of cracking. 
 (And the name means: a maze of puzzles as hard to crack as a mythical dragon.) 
-However, because of the design characteristics of the two ciphers themselves: the block cipher is a heavyweight cryptography, and the stream cipher is a lightweight cryptography, the block cipher is a heavyweight cryptography, and the stream cipher is a lightweight cryptography. I hope you will like these two algorithms.
+However, because of the design characteristics of the two ciphers themselves: the block cipher is a heavyweight cryptography, and the stream cipher is a lightweight cryptography. I hope you will like these two algorithms.
 
 
 ## 🔭 I’m currently working on ...
