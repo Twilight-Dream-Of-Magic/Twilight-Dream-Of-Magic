@@ -32,9 +32,16 @@ However, because of the design characteristics of the two ciphers themselves: th
 - [PasswordManagerGUI](https://github.com/Twilight-Dream-Of-Magic/PasswordManagerGUI):
 A Utility GUI program to protect and manage passwords using my utility codebase TDOM-EncryptOrDecryptFile-Reborn.
 
-- [LargeDynamicBitSet](https://github.com/Twilight-Dream-Of-Magic/LargeDynamicBitSet): 
-A bit set based on an array of 32-bit numbers. As a result, it can represent large numbers that are not representable by native c++ and can be used for scientific computing. 
-(Under development, feel free to submit bugs.)
+- [Easy-BigInteger](https://github.com/Twilight-Dream-Of-Magic/Easy-BigInteger)
+A user-friendly class for working with large integers, designed with cryptography and binary math operations in mind.
+The library is designed for MSVC (Microsoft Visual C++) and is currently under development (Work In Progress).
+Ideal for scientific computing and application scenarios that require high efficiency in bit manipulation.
+Enables the representation of large numbers beyond the native capabilities of standard C++ data types.
+It simplifies the creation, manipulation, and handling of large integers, and is an invaluable tool for those working with cryptographic algorithms or mathematical calculations that require the use of large numbers.
+
+- [LargeDynamicBitSet](https://github.com/Twilight-Dream-Of-Magic/LargeDynamicBitSet):
+This is a dynamic bit set implementation that utilizes arrays of 32-bit numbers.
+This project is currently under development, bug reports and contributions are welcome to help improve its functionality.
 
 - [c-sharp-practical-code-toolkit](https://github.com/Twilight-Dream-Of-Magic/c-sharp-practical-code-toolkit): 
 A practical code toolkit written in C#. 
