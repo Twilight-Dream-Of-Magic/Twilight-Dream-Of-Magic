@@ -30,7 +30,8 @@ However, because of the design characteristics of the two ciphers themselves: th
 ## 🔭 I’m currently working on ...
 
 - [PasswordManagerGUI](https://github.com/Twilight-Dream-Of-Magic/PasswordManagerGUI):
-A Utility GUI program to protect and manage passwords using my utility codebase TDOM-EncryptOrDecryptFile-Reborn.
+A PasswordManagerGUI is a utility GUI program built on the TDOM-EncryptOrDecryptFile-Reborn codebase, designed to protect and manage passwords and file data locally.
+It provides local login/logout management with secure storage and efficient encryption/decryption, making it ideal for scenarios that require offline handling of passwords and file data.
 
 - [Easy-BigInteger](https://github.com/Twilight-Dream-Of-Magic/Easy-BigInteger)
 A user-friendly class for working with large integers, designed with cryptography and binary math operations in mind.
