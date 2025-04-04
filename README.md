@@ -20,12 +20,15 @@ I'm a college freshman in 2022, passionate about open-source projects and learni
 A code base of utilities that use multiple algorithms to encrypt or decrypt data, validate data, etc.
 (Implement file read/write processing functionality, maybe in the future?)
 
+- [LargeDynamicBitSet](https://github.com/Twilight-Dream-Of-Magic/LargeDynamicBitSet):
+This is a dynamic bit set implementation that utilizes arrays of 32-bit numbers.
+This project is currently under development, bug reports and contributions are welcome to help improve its functionality.
+
 - [Algorithm_OaldresPuzzleCryptic](https://github.com/Twilight-Dream-Of-Magic/Algorithm_OaldresPuzzleCryptic): 
 A C++-based research library for symmetric encryption and decryption, containing my OaldresPuzzleCryptic and Little OaldresPuzzleCryptic algorithms (although these two algorithms are placed in the `OOP/BlockCipher` folder and the `OOP/StreamCipher` folder, they are actually mathematically different implementations. they actually use different mathematical implementations. 
 I call them both by this name because these algorithms are actually very difficult to crack, and both algorithms can be a good defense against the future growth of quantum computing with respect to quantum bits, and I propose a good defense against shortening the speed of cracking. 
 (And the name means: a maze of puzzles as hard to crack as a mythical dragon.) 
 However, because of the design characteristics of the two ciphers themselves: the block cipher is a heavyweight cryptography, and the stream cipher is a lightweight cryptography. I hope you will like these two algorithms.
-
 
 ## 🔭 I’m currently working on ...
 
@@ -33,16 +36,16 @@ However, because of the design characteristics of the two ciphers themselves: th
 A PasswordManagerGUI is a utility GUI program built on the TDOM-EncryptOrDecryptFile-Reborn codebase, designed to protect and manage passwords and file data locally.
 It provides local login/logout management with secure storage and efficient encryption/decryption, making it ideal for scenarios that require offline handling of passwords and file data.
 
-- [Easy-BigInteger](https://github.com/Twilight-Dream-Of-Magic/Easy-BigInteger)
+- [Easy-BigInteger]([https://github.com/Twilight-Dream-Of-Magic/Easy-BigIntege](https://github.com/Twilight-Dream-Of-Magic/Easy-BigIntege)r)
 A user-friendly class for working with large integers, designed with cryptography and binary math operations in mind.
 The library is designed for MSVC (Microsoft Visual C++) and is currently under development (Work In Progress).
 Ideal for scientific computing and application scenarios that require high efficiency in bit manipulation.
 Enables the representation of large numbers beyond the native capabilities of standard C++ data types.
 It simplifies the creation, manipulation, and handling of large integers, and is an invaluable tool for those working with cryptographic algorithms or mathematical calculations that require the use of large numbers.
-
-- [LargeDynamicBitSet](https://github.com/Twilight-Dream-Of-Magic/LargeDynamicBitSet):
-This is a dynamic bit set implementation that utilizes arrays of 32-bit numbers.
-This project is currently under development, bug reports and contributions are welcome to help improve its functionality.
+Based on this robust BigInteger class, we have also developed a BigFraction class that provides precise operations for rational numbers, avoiding the pitfalls of floating point arithmetic. Furthermore, to verify the correctness and practical applicability of our BigInteger implementation, we have implemented the RSA cryptosystem along with China’s SM2 elliptic curve cryptography. These additional modules not only serve as test cases for the integrity of our BigInteger operations but also highlight its versatility in supporting advanced cryptographic algorithms.
+  **Easy-BigInteger Additional Features:**
+  - **Big Fraction Class:** Based on the big integer implementation, we have also developed a big fraction class to handle rational number computations with high precision.
+  - **Cryptographic Testing:** To verify the correctness and robustness of our big integer operations, we have implemented both the RSA asymmetric encryption/decryption algorithm and the Chinese SM2 asymmetric encryption/decryption algorithm, specifically using the P256V1 elliptic curve.
 
 - [c-sharp-practical-code-toolkit](https://github.com/Twilight-Dream-Of-Magic/c-sharp-practical-code-toolkit): 
 A practical code toolkit written in C#. 
