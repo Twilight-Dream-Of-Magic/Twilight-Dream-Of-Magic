@@ -33,11 +33,11 @@ However, because of the design characteristics of the two ciphers themselves: th
 - [mio](https://github.com/Twilight-Dream-Of-Magic/mio)
 This repository is a fork of the mio project, a high-performance memory-mapped I/O library for C++.
 The original project is designed to provide efficient memory-mapped file handling, enabling fast and scalable I/O operations.​
-🔧 Features
+- 🔧 Features
     Memory-Mapped I/O: Utilizes memory-mapped files to allow applications to access files as if they were part of the virtual memory, leading to faster data access.​
     C++ Standard Library Integration: Seamlessly integrates with the C++ Standard Library, providing a familiar and consistent interface for developers.​
     Cross-Platform Support: Designed to work across various platforms, ensuring portability and wide applicability.​
-🔄 Contributions
+- 🔄 Contributions
 In February 2022, the repository owner, Twilight-Dream-Of-Magic, contributed to the project by proposing enhancements for C++20 template concept support.
 This contribution aimed to refine the codebase and improve its compatibility with modern C++ standards.
 The proposed changes were discussed and shared with the community, reflecting an active engagement in the project's development
