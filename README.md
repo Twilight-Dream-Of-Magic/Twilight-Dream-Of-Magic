@@ -33,11 +33,11 @@ However, because of the design characteristics of the two ciphers themselves: th
 - [mio](https://github.com/Twilight-Dream-Of-Magic/mio)
 This repository is a fork of the mio project, a high-performance memory-mapped I/O library for C++.
 The original project is designed to provide efficient memory-mapped file handling, enabling fast and scalable I/O operations.​
-- 🔧 Features
-    Memory-Mapped I/O: Utilizes memory-mapped files to allow applications to access files as if they were part of the virtual memory, leading to faster data access.​
-    C++ Standard Library Integration: Seamlessly integrates with the C++ Standard Library, providing a familiar and consistent interface for developers.​
-    Cross-Platform Support: Designed to work across various platforms, ensuring portability and wide applicability.​
-- 🔄 Contributions
+- 🔧 **Features**
+    - Memory-Mapped I/O: Utilizes memory-mapped files to allow applications to access files as if they were part of the virtual memory, leading to faster data access.​
+    - C++ Standard Library Integration: Seamlessly integrates with the C++ Standard Library, providing a familiar and consistent interface for developers.​
+    - Cross-Platform Support: Designed to work across various platforms, ensuring portability and wide applicability.​
+- 🔄 **Contributions**
 In February 2022, the repository owner, Twilight-Dream-Of-Magic, contributed to the project by proposing enhancements for C++20 template concept support.
 This contribution aimed to refine the codebase and improve its compatibility with modern C++ standards.
 The proposed changes were discussed and shared with the community, reflecting an active engagement in the project's development
@@ -65,6 +65,20 @@ Also, you look this C++ easy bitset [LargeDynamicBitSet](https://github.com/Twil
 - [c-sharp-practical-code-toolkit](https://github.com/Twilight-Dream-Of-Magic/c-sharp-practical-code-toolkit): 
 A practical code toolkit written in C#. 
 (This is a utility code repository, I had little interest in writing it, there may be some useful data structure and algorithmic logic functions later.)
+
+- 🔥 [HotUpdates_XLuaFramework](https://github.com/Twilight-Dream-Of-Magic/HotUpdates_XLuaFramework)
+This Unity C# framework facilitates Lua-based hot updates, enabling dynamic script execution and seamless content updates without requiring full application redeployment
+- 🔧 Key Features
+    - **Lua Integration** Utilizes XLua to integrate Lua scripting, allowing developers to write and execute Lua scripts within Unit.
+    - **Hot Update Mechanism** Supports downloading and applying Lua scripts at runtime, enabling on-the-fly updates to game logic and conten.
+    - **Modular Architecture** Organizes Lua scripts and resources into bundles, facilitating efficient management and update.
+    - **Version Control** Employs versioning to ensure compatibility and integrity of update.
+    - **Bug Reporting** Encourages community involvement by welcoming bug reports and contributions via GitHub issue.
+
+- 🔐 Security with LittleOPC Encryptio
+To enhance the security of Lua scripts, this framework incorporates the **LittleOPC (OaldresPuzzle-Cryptic)** lightweight symmetric encryption algoritm Developed and implemented in C#, LittleOPC ensures that Lua scripts are encrypted during transmission and storage, protecting against unauthorized access and tamperig.
+The algorithm is designed for efficiency and ease of use, making it suitable for real-time applications where performance is criticl Developers are encouraged to explore and contribute to the algorithm's development through the dedicated repositoy:
+- 👉 [LittleOPC StreamCipher on GitHub](https://github.com/Twilight-Dream-Of-Magic/Algorithm_OaldresPuzzleCryptic/OOP/StreamCipher)
 
 ## History until 2022 ⚙️ Project:
 
