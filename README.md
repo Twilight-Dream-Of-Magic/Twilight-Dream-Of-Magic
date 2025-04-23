@@ -87,8 +87,8 @@ I'm a college freshman in 2022, passionate about open-source projects and learni
   Developed and implemented in C#, LittleOPC ensures that Lua scripts are encrypted during transmission and storage, protecting against unauthorized access and tampering.  
   The algorithm is designed for efficiency and ease of use, making it suitable for real-time applications where performance is critical.  
   Developers are encouraged to explore and contribute to the algorithm's development through the dedicated repository:  
-  👉 [LittleOPC C++ on GitHub](https://github.com/Twilight-Dream-Of-Magic/Algorithm_OaldresPuzzleCryptic/OOP/StreamCipher)
-  👉 [LittleOPC C# on GitHub](https://github.com/Twilight-Dream-Of-Magic/HotUpdates_XLuaFramework/blob/main/Assets/Scripts/TwilightDreamOfMagical/CustomSecurity/SED/LittleOPC_Wrapper.cs)
+  - 👉 [LittleOPC C++ on GitHub](https://github.com/Twilight-Dream-Of-Magic/Algorithm_OaldresPuzzleCryptic/OOP/StreamCipher)
+  - 👉 [LittleOPC C# on GitHub](https://github.com/Twilight-Dream-Of-Magic/HotUpdates_XLuaFramework/blob/main/Assets/Scripts/TwilightDreamOfMagical/CustomSecurity/SED/LittleOPC_Wrapper.cs)
 
 
 ## History until 2022 ⚙️ Project:
