@@ -47,6 +47,19 @@ I'm a college freshman in 2022, passionate about open-source projects and learni
     This contribution aimed to refine the codebase and improve its compatibility with modern C++ standards.  
     The proposed changes were discussed and shared with the community, reflecting an active engagement in the project's development.
 
+- 🚀 [TestDirichletFunctionMakePathosisHash](https://github.com/Twilight-Dream-Of-Magic/TestDirichletFunctionMakePathosisHash)
+
+  > **A Pathologically Secure Hash** meets **Dirichlet’s Uncomputable Function**  
+  > Harnessing chaotic double‑pendulum dynamics and mathematical approximation to push hashing beyond conventional limits.  
+  
+  [![GPL‑3.0 License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](#license)  
+  [![C++20](https://img.shields.io/badge/C%2B%2B-20-blue.svg)](#requirements)  
+  
+  Dive in to explore:
+  - 🔍 **Dirichlet Approximation:** From theory to C++ demo  
+  - 🎢 **Chaotic Hashing:** Double‑pendulum meets collision resistance  
+  - 📄 **Full Paper:** Markdown & PDF with proofs and analyses
+
 ## 🔭 I’m currently working on ...
 
 - [PasswordManagerGUI](https://github.com/Twilight-Dream-Of-Magic/PasswordManagerGUI):  
