@@ -47,7 +47,7 @@ I'm a college freshman in 2022, passionate about open-source projects and learni
     This contribution aimed to refine the codebase and improve its compatibility with modern C++ standards.  
     The proposed changes were discussed and shared with the community, reflecting an active engagement in the project's development.
 
-- 🚀 [TestDirichletFunctionMakePathosisHash](https://github.com/Twilight-Dream-Of-Magic/TestDirichletFunctionMakePathosisHash)
+- 🚀 [TestDirchletFunctionMakePathosisHash](https://github.com/Twilight-Dream-Of-Magic/TestDirchletFunctionMakePathosisHash)
 
   > **A Pathologically Secure Hash** meets **Dirichlet’s Uncomputable Function**  
   > Harnessing chaotic double‑pendulum dynamics and mathematical approximation to push hashing beyond conventional limits.  
