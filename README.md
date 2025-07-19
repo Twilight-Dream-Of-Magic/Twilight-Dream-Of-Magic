@@ -60,6 +60,33 @@ I'm a college freshman in 2022, passionate about open-source projects and learni
   - 🎢 **Chaotic Hashing:** Double‑pendulum meets collision resistance  
   - 📄 **Full Paper:** Markdown & PDF with proofs and analyses
 
+- [AllocationMemoryPool](https://github.com/Twilight-Dream-Of-Magic/AllocationMemoryPool)
+is a near‑industrial‑grade, cross‑platform, self‑managing memory pool & allocator implemented in modern C++ 🚀✨ (｀・ω・´)ゞ, built for maximum performance and scalability. 
+
+  **🌟 Core Features (≧◡≦) ♡**
+
+  >🔹 **Tiered Architecture**
+    Supports four size classes for best‑fit allocation:
+  
+    * **Small** (≤ 1 MiB)
+    * **Medium** (≤ 512 MiB)
+    * **Large** (≤ 1 GiB)
+    * **Huge** (> 1 GiB)
+      Each tier is optimized for its target object scale 🏗️ (｡•̀ᴗ-)✧.
+  
+  > 🔹 **Thread‑Local Caching** Per‑thread buckets provide a lock‑free fast path to cut down multithreading contention ⚙️💨 (*^‿^*).
+  
+  > 🔹 **Low‑Level Virtual Memory** Direct OS calls (`mmap` on Linux / `NtAllocateVirtualMemory` on Windows) with optional huge‑page support for lightning‑fast large object allocations 💾🌌 (⌐■\_■).
+  
+  > 🔹 **Leak Tracking & Reporting** Built‑in `MemoryTracker` logs every allocation site automatically, no extra deps required; paired with `SafeMemoryLeakReporter` to dump leak reports at exit 🐛🔍 (＾◡＾)っ.
+  
+  > 🔹 **Real‑Time Stats** Atomic counters track bytes and operation counts on the fly—perfect for quick sanity checks 📊⚡ (≧◡≦).
+  
+  > 🔹 **Header‑Only API** Just `#include` the public headers and you’re ready to go; compatible with C++17 (C++20 recommended) 📜✂️ (＾▽＾).
+
+  - **Enjoy hassle‑free, high‑performance memory management in your C++ projects! ＼(＾▽＾)／**
+
+
 ## 🔭 I’m currently working on ...
 
 - [PasswordManagerGUI](https://github.com/Twilight-Dream-Of-Magic/PasswordManagerGUI):  
